@@ -1,0 +1,6 @@
+Reviewed source SHA-256
+
+index.html
+845A807BFB48BB074F494723D4FA0913ED7CB1E5EF3D06553D2FB4D1578849FF
+
+This matches the reviewed source hash reported in the independent Codex technical review dated 29 September 2026.
