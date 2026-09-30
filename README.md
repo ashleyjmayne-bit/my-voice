@@ -2,9 +2,15 @@
 
 **Your voice. Your words. Your choice.**
 
-My Voice is a browser-based simulation created for the **Alexa+ track of Amazon Build, Ship, Shape 2026**.
+My Voice is a browser-based **simulated Alexa+ accessibility and advocacy companion** created for the **Alexa+ track of Amazon Build, Ship, Shape 2026**.
 
 It is designed for elderly, disabled, cognitively impaired, or otherwise vulnerable adults who may benefit from a simpler way to understand everyday information, remember important matters, communicate in their own words, recognise suspicious requests, and choose whether to share something with a trusted person.
+
+## Demo
+
+**Public demo video:** https://www.youtube.com/watch?v=9KmDy0o6oiM
+
+The demo is 1:45 and shows the working prototype, including the explicit consent flow for simulated trusted-contact sharing.
 
 ## Core interaction model
 
@@ -91,9 +97,12 @@ Detailed evidence is in [`qa/`](qa/).
 
 ## Submission materials
 
-Draft submission materials are in [`docs/`](docs/):
+Final submission materials are in [`docs/`](docs/), including:
 
-- Devpost submission copy
+- final Devpost submission copy
+- Product Feedback
+- friction log
+- feature requests
 - architecture notes
 - judge pitch
 - demo video script
